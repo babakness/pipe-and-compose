@@ -9,7 +9,7 @@ This exposes a `pipe`, `compose` and `pipeline` function. It implements the func
 
 <img src="https://raw.githubusercontent.com/babakness/pipe-and-compose/master/.github/images/preserve-parameters.png" alt="preserves parameter names"/>
 
-<img src="https://raw.githubusercontent.com/babakness/pipe-and-compose/master/.github/images/helpful-errors.gif" alt="provides helpful errors" />
+<img src="https://raw.githubusercontent.com/babakness/pipe-and-compose/master/.github/images/helpful-errors.png" alt="provides helpful errors" />
 
 See tests for more examples
 
