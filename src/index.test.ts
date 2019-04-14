@@ -4,7 +4,6 @@ import { compose, pipe, pipeline } from './index'
 let errorCount = 0
 let totalTests = 0
 
-/* @ts-ignore */
 const okLog = <T>( x: T): T => (console.log(x),x)
 const errLog = <T>( x: T): T => (errorCount++,console.error(x),x)
 const staticType = <T>( x: T ): T => x
